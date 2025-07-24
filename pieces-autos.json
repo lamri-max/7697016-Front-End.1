@@ -5,7 +5,7 @@
         "prix": 60,
         "categorie": "Optiques",
         "description": "distance d'eclairage:100 mètres !",
-        "disponibilite": "oUI",
+        "disponibilite": "true",
     },
     {
         "id": 2,
@@ -13,7 +13,7 @@
         "prix": 40,
         "categorie": "Freinage",
         "description": "une qualité de freinage optimal, par tous les temps",
-        "disponibilite": "oui",
+        "disponibilite": "true",
     },
     {
         "id": 3,
@@ -21,7 +21,7 @@
         "prix": 5.49,
         "categorie": "Optiques",
         "description": "pour y voir clair dans l'habitacle",
-        "disponibilite": "non",
+        "disponibilite": "false",
     },
     {
         "id": 4,
@@ -29,13 +29,13 @@
         "prix": 9.60,
         "categorie": "Freinage",
         "aucune description, ne pas rajouter de propriété.",
-        "disponibilite":"oui",
+        "disponibilite":"true",
     },
     {
         "id": 5,
         "nom": "Balai d'essuie-glace",
         "prix": 29.10,
         "description": "performance d'essuyage au top! longueur:550 mm.",
-        "disponibilite": "oui"
+        "disponibilite": "true"
     }
 ]
